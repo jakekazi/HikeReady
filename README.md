@@ -27,7 +27,7 @@ It’s a **C++ console application** that focuses on real-world logic rather tha
 
 ### Installation
 1. Clone the repo:
-git clone https://github.com/yourusername/HikeReady.git
+git clone https://github.com/jakekazi/HikeReady.git
 
 2. Navigate to the folder: cd HikeReady
 
