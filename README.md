@@ -1,6 +1,6 @@
 # HikeReady
 
-> Your smart hiking preparation assistant — calculates hike duration, water & food needs, and clothing suggestions based on distance, pace, and temperature.
+> Imagine you’re going on a group or solo hike. You know the distance, but not how much water or food to carry, or what to wear. That’s where **HikeReady** comes in — your smart hiking preparation assistant. It calculates hike duration, recommends water and food intake, and suggests clothing based on distance, pace, and temperature.
 
 ---
 
